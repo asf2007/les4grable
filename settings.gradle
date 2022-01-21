@@ -1,0 +1,5 @@
+rootProject.name = 'les4grable'
+include 'db'
+include 'api'
+include 'service'
+

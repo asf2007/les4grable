@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="les4grable.api.main" target="1.8" />
+      <module name="les4grable.api.test" target="1.8" />
+      <module name="les4grable.db.main" target="1.8" />
+      <module name="les4grable.db.test" target="1.8" />
+      <module name="les4grable.main" target="1.8" />
+      <module name="les4grable.service.main" target="1.8" />
+      <module name="les4grable.service.test" target="1.8" />
+      <module name="les4grable.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
